@@ -28,6 +28,8 @@
     <!--    各个版本依赖-->
     <properties>
         <java.version>11</java.version>
+        <mybatis.version>3.5.2</mybatis.version>
+        <druid.version>1.2.11</druid.version>
     </properties>
 
     <dependencies>
